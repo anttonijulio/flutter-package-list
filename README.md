@@ -51,9 +51,6 @@
 ## https://pub.dev/packages/mesh_gradient
 ![mesh_gradient](https://github.com/ben-fornefeld/mesh_gradient/raw/main/example/demo/demo-animated.gif)
 
-## https://pub.dev/packages/mesh_gradient
-![mesh_gradient](https://github.com/ben-fornefeld/mesh_gradient/raw/main/example/demo/demo-animated.gif)
-
 ## https://pub.dev/packages/mini_music_visualizer
 ![mini_music_visualizer](https://raw.githubusercontent.com/mpcreza/mini_music_visualizer/master/screenshots/screenshot.gif)
 
