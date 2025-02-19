@@ -77,3 +77,6 @@
 
 ## https://pub.dev/packages/hold_to_confirm_button
 ![hold_to_confirm_button](https://github-production-user-asset-6210df.s3.amazonaws.com/32662133/317015481-9b370557-9721-470b-81ae-801907fa270f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T085221Z&X-Amz-Expires=300&X-Amz-Signature=3366b94db76d477b01f1b5eac1ab59aa579cec5490cf08a916c202cc04736b89&X-Amz-SignedHeaders=host)
+
+## https://pub.dev/packages/super_cupertino_navigation_bar
+![super_cupertino_navigation_bar](https://raw.githubusercontent.com/kspo/super_cupertino_navigation_bar/main/screenshots/intro_2.gif)
