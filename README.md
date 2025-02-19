@@ -15,9 +15,6 @@
 ## https://pub.dev/packages/slide_countdown
 ![slide_countdown](https://raw.githubusercontent.com/farhanfadila1717/flutter_package/master/display/slide_coutdown/basic_slide_countdown.png)
 
-## https://pub.dev/packages/slide_countdown
-![slide_countdown](https://raw.githubusercontent.com/farhanfadila1717/flutter_package/master/display/slide_coutdown/basic_slide_countdown.png)
-
 ## https://pub.dev/packages/bouncing_widget
 ![bouncing_widget](https://raw.githubusercontent.com/ThomasEcalle/bouncing_widget/master/documentation/gif_bouncing.gif)
 
@@ -61,10 +58,10 @@
 ![random_text_reveal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBqc2V0ZjNvOWMxYTQyeXdwNjNscWkxNnRjZTFyaDh2cWp5YjNuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENweHBIx5F2iIBRtwM/giphy.gif)
 
 ## https://pub.dev/packages/delightful_toast
-![delightful_toast](https://github-production-user-asset-6210df.s3.amazonaws.com/31922733/287505399-3259eaa3-cf96-4048-bb29-62a4ca8b49f5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T084015Z&X-Amz-Expires=300&X-Amz-Signature=213355014aa313f41eed14225f7dfea3c25cdaa078c70133ed501e22e737bbe7&X-Amz-SignedHeaders=host)
+![delightful_toast](https://github-production-user-asset-6210df.s3.amazonaws.com/31922733/287505399-3259eaa3-cf96-4048-bb29-62a4ca8b49f5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T090241Z&X-Amz-Expires=300&X-Amz-Signature=084bf827d138a2f070410683a737ea8806b489fbe43bc18301920bc9345d39ef&X-Amz-SignedHeaders=host)
 
 ## https://pub.dev/packages/zo_animated_border
-![zo_animated_border](https://github-production-user-asset-6210df.s3.amazonaws.com/119127289/404528051-7e234c6a-dedc-44c7-a03f-0aa052e8a028.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T084147Z&X-Amz-Expires=300&X-Amz-Signature=96627b636bd2d5be90918b879ce5335639b9d38acafb15f3fc1b3225c673a1b1&X-Amz-SignedHeaders=host)
+![zo_animated_border](https://github-production-user-asset-6210df.s3.amazonaws.com/119127289/404528051-7e234c6a-dedc-44c7-a03f-0aa052e8a028.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250219T090655Z&X-Amz-Expires=300&X-Amz-Signature=1187689c67536f8aa27823846bbc9c0c684bbe7606f0670a82697c1248dbc814&X-Amz-SignedHeaders=host)
 
 ## https://pub.dev/packages/flutter_flip_card
 ![flutter_flip_card](https://user-images.githubusercontent.com/58139175/137616437-89cbfdba-7de2-4d5f-9a4f-28309dc71202.gif)
