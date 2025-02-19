@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/flutter_styled_toast
+![flutter_styled_toast](https://raw.githubusercontent.com/JackJonson/flutter_styled_toast/master/screenshots/OverallAnimations.gif)
+
 ## https://pub.dev/packages/sliver_tools
 ![sliver_tools](https://raw.githubusercontent.com/Kavantix/sliver_tools/master/gifs/demo2.gif)
 
