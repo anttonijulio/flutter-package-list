@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/search_choices
+![search_choices](https://searchchoices.jod.li/Multi%20dialog.gif)
+
 ## https://pub.dev/packages/fluid_dialog
 ![fluid_dialog](https://raw.githubusercontent.com/RoundedInfinity/fluid_dialog/refs/heads/main/images/video.gif)
 
