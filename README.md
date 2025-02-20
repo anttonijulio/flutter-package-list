@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/swipeable_page_route
+![swipeable_page_route](https://raw.githubusercontent.com/JonasWanke/swipeable_page_route/main/doc/demo.gif)
+
 ## https://pub.dev/packages/search_choices
 ![search_choices](https://searchchoices.jod.li/Multi%20dialog.gif)
 
