@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/fluid_dialog
+![fluid_dialog](https://raw.githubusercontent.com/RoundedInfinity/fluid_dialog/refs/heads/main/images/video.gif)
+
 ## https://pub.dev/packages/flutter_styled_toast
 ![flutter_styled_toast](https://raw.githubusercontent.com/JackJonson/flutter_styled_toast/master/screenshots/OverallAnimations.gif)
 
