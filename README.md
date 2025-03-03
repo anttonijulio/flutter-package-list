@@ -1,6 +1,9 @@
 # flutter-package-list
 
-## https://pub.dev/packages/animated_text_kit
+## https://pub.dev/packages/showcaseview
+![showcaseview](https://raw.githubusercontent.com/SimformSolutionsPvtLtd/flutter_showcaseview/master/preview/showcaseview.gif)
+
+## https://pub.dev/packages/showcaseview
 ![animated_text_kit](https://raw.githubusercontent.com/aagarwal1012/Animated-Text-Kit/refs/heads/master/display/rotate.gif)
 
 ## https://pub.dev/packages/swipeable_page_route
