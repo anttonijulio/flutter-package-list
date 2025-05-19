@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/flex_color_scheme
+![flex_color_scheme](https://raw.githubusercontent.com/rydmike/flex_color_scheme_docs/master/docs/images/fcs-v5-d-37.png)
+
 ## https://pub.dev/packages/showcaseview
 ![showcaseview](https://raw.githubusercontent.com/SimformSolutionsPvtLtd/flutter_showcaseview/master/preview/showcaseview.gif)
 
