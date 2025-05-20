@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/dropdown_search
+![dropdown_search](https://github.com/salim-lachdhaf/searchable_dropdown/blob/master/screenshots/example.gif?raw=true)
+
 ## https://pub.dev/packages/flex_color_scheme
 ![flex_color_scheme](https://raw.githubusercontent.com/rydmike/flex_color_scheme_docs/master/docs/images/fcs-v5-d-37.png)
 
