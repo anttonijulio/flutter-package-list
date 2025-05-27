@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/camerawesome
+![camerawesome](https://raw.githubusercontent.com/Apparence-io/camera_awesome/master/docs/img/features.png)
+
 ## https://pub.dev/packages/dropdown_search
 ![dropdown_search](https://github.com/salim-lachdhaf/searchable_dropdown/blob/master/screenshots/example.gif?raw=true)
 
