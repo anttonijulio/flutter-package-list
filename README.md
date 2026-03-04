@@ -1,5 +1,8 @@
 # flutter-package-list
 
+## https://pub.dev/packages/sliver_sticky_collapsable_panel
+![sliver_sticky_collapsable_panel](https://raw.githubusercontent.com/techwn/files/main/imgs/sliver_sticky_collapsable_pannel/simple_demo.gif)
+
 ## https://pub.dev/packages/camerawesome
 ![camerawesome](https://raw.githubusercontent.com/Apparence-io/camera_awesome/master/docs/img/features.png)
 
